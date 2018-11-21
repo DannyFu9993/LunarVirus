@@ -16,6 +16,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 43.2
     width: 1536
@@ -35,16 +36,24 @@ MonoBehaviour:
 >>>>>>> Danny Updated
     height: 981
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     x: 60
     y: 51
     width: 1587
     height: 952
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
   m_MinSize: {x: 950, y: 542}
+<<<<<<< HEAD
 >>>>>>> First commit Adam Test
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -67,6 +76,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
     height: 781
   m_MinSize: {x: 950, y: 521}
@@ -83,6 +93,11 @@ MonoBehaviour:
     height: 952
   m_MinSize: {x: 950, y: 300}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    width: 1587
+    height: 952
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -102,6 +117,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
 =======
     width: 1012
@@ -109,6 +125,9 @@ MonoBehaviour:
 =======
     width: 1587
 >>>>>>> Danny Updated
+=======
+    width: 1587
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -130,6 +149,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 761
     width: 1536
 =======
@@ -143,6 +163,10 @@ MonoBehaviour:
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
     width: 1587
 >>>>>>> Danny Updated
+=======
+    y: 932
+    width: 1587
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -164,6 +188,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 1536
@@ -189,12 +214,18 @@ MonoBehaviour:
   controlID: 99
 >>>>>>> Danny Updated
 =======
+=======
+    width: 1587
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     height: 902
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 70
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,6 +244,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 1114
@@ -238,12 +270,18 @@ MonoBehaviour:
   controlID: 100
 >>>>>>> Danny Updated
 =======
+=======
+    width: 1151
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     height: 902
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 51
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -262,6 +300,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 1114
@@ -287,12 +326,18 @@ MonoBehaviour:
   controlID: 101
 >>>>>>> Danny Updated
 =======
+=======
+    width: 1151
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     height: 631
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
   controlID: 52
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,6 +356,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 202
     height: 460
   m_MinSize: {x: 202, y: 221}
@@ -327,11 +373,17 @@ MonoBehaviour:
 >>>>>>> First commit Adam Test
   m_ActualView: {fileID: 13}
 =======
+=======
+    width: 202
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     height: 631
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Panes:
   - {fileID: 15}
   m_Selected: 0
@@ -350,6 +402,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 202
@@ -371,6 +424,9 @@ MonoBehaviour:
 =======
     x: 202
 >>>>>>> Danny Updated
+=======
+    x: 202
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     y: 0
     width: 949
     height: 631
@@ -384,7 +440,10 @@ MonoBehaviour:
   - {fileID: 13}
   m_Selected: 0
   m_LastSelected: 1
+<<<<<<< HEAD
 >>>>>>> First commit Adam Test
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -400,6 +459,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     y: 460
@@ -419,6 +479,9 @@ MonoBehaviour:
 =======
     y: 631
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    y: 631
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     width: 1151
     height: 271
   m_MinSize: {x: 232, y: 271}
@@ -430,11 +493,15 @@ MonoBehaviour:
   - {fileID: 12}
   m_Selected: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSelected: 1
 >>>>>>> First commit Adam Test
 =======
   m_LastSelected: 2
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_LastSelected: 2
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -451,6 +518,7 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1114
     y: 0
     width: 422
@@ -465,6 +533,9 @@ MonoBehaviour:
 =======
     x: 1151
 >>>>>>> Danny Updated
+=======
+    x: 1151
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     y: 0
     width: 436
     height: 902
@@ -473,11 +544,15 @@ MonoBehaviour:
   m_ActualView: {fileID: 20}
   m_Panes:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 18}
 >>>>>>> First commit Adam Test
 =======
   - {fileID: 20}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  - {fileID: 20}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &12
@@ -590,6 +665,7 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 204
     y: 19
     width: 908
@@ -602,14 +678,21 @@ MonoBehaviour:
     width: 1140
     height: 655
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     x: 264
     y: 100
     width: 945
     height: 610
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
 >>>>>>> First commit Adam Test
+=======
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -619,6 +702,7 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_HBaseRangeMin: -492.80002
@@ -632,11 +716,16 @@ MonoBehaviour:
     m_VBaseRangeMax: 319
 >>>>>>> First commit Adam Test
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_HBaseRangeMin: -472.5
     m_HBaseRangeMax: 472.5
     m_VBaseRangeMin: -266
     m_VBaseRangeMax: 266
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -656,6 +745,7 @@ MonoBehaviour:
       y: 17
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1536
       height: 693
     m_Scale: {x: 1.2874999, y: 1.2875}
@@ -667,17 +757,23 @@ MonoBehaviour:
     m_Translation: {x: 570, y: 319}
 >>>>>>> First commit Adam Test
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       width: 945
       height: 593
     m_Scale: {x: 1.1833491, y: 1.1833491}
     m_Translation: {x: 524.8879, y: 278.22913}
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       x: -596.5049
@@ -691,15 +787,21 @@ MonoBehaviour:
       height: 638
 >>>>>>> First commit Adam Test
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       x: -443.5613
       y: -235.12007
       width: 798.5809
       height: 501.12006
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1920, y: 887.5}
@@ -709,6 +811,9 @@ MonoBehaviour:
 =======
   m_LastWindowPixelSize: {x: 945, y: 610}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_LastWindowPixelSize: {x: 945, y: 610}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -733,6 +838,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -770,6 +876,8 @@ MonoBehaviour:
     m_ExpandedIDs: d2fbffff00000000
 >>>>>>> Danny Updated
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     x: 60
     y: 100
     width: 200
@@ -780,7 +888,10 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: e6fbffff00000000
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -812,6 +923,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -984,6 +1096,8 @@ MonoBehaviour:
   m_EditorHideFlags: 1
 =======
 >>>>>>> First commit Adam Test
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -996,6 +1110,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1017,19 +1132,28 @@ MonoBehaviour:
 >>>>>>> Danny Updated
     height: 639
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     x: 264
     y: 100
     width: 945
     height: 610
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 3154.396085317276
 >>>>>>> First commit Adam Test
+=======
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 3154.396085317276
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: 15.842078, y: 7.712195, z: -10.092854}
@@ -1045,6 +1169,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 23.373112, y: -1.3226694, z: -0.07421875}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    m_Target: {x: 23.373112, y: -1.3226694, z: -0.07421875}
+    speed: 2
+    m_Value: {x: 23.373112, y: -1.3226694, z: -0.07421875}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1078,6 +1207,7 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 31.286215
     speed: 2
     m_Value: 31.286215
@@ -1091,6 +1221,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 15.279166
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    m_Target: 15.279166
+    speed: 2
+    m_Value: 15.279166
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1104,12 +1239,16 @@ MonoBehaviour:
   m_ViewIsLockedToObject: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &17
 =======
 --- !u!114 &15
 =======
 --- !u!114 &17
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!114 &17
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1135,11 +1274,15 @@ MonoBehaviour:
     height: 610
   m_PersistentViewDataDictionary: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &16
 >>>>>>> First commit Adam Test
 =======
 --- !u!114 &18
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!114 &18
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1162,6 +1305,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 552.8
     width: 1112
@@ -1179,6 +1323,11 @@ MonoBehaviour:
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
     width: 1149
 >>>>>>> Danny Updated
+=======
+    x: 60
+    y: 731
+    width: 1149
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     height: 250
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -1194,6 +1343,7 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Sprites/new-explosionb (1)/new-explosionb
   m_ViewMode: 1
   m_StartGridSize: 57
@@ -1202,6 +1352,8 @@ MonoBehaviour:
   m_LastFoldersGridSize: 57
   m_LastProjectPath: C:\Users\phillip\Desktop\college\project3\LunarVirus-master(dv)\LunarVirus-master
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     - Assets/Sprites
   m_ViewMode: 1
   m_StartGridSize: 57
@@ -1209,15 +1361,20 @@ MonoBehaviour:
   - Assets/Sprites
   m_LastFoldersGridSize: 57
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Administrator\Desktop\Lunar Virus
 >>>>>>> First commit Adam Test
 =======
   m_LastProjectPath: C:\Users\Administrator\Desktop\github test\Lunar Virus DANNY
 >>>>>>> Danny Updated
+=======
+  m_LastProjectPath: C:\Users\Administrator\Desktop\github test\Lunar Virus DANNY
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1239,6 +1396,11 @@ MonoBehaviour:
     m_LastClickedID: 10858
     m_ExpandedIDs: 00000000e429000000ca9a3b
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    m_SelectedIDs: 6a2a0000
+    m_LastClickedID: 10858
+    m_ExpandedIDs: 00000000e429000000ca9a3b
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: Scripts
@@ -1269,6 +1431,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000c82b0000622c0000a02e000000ca9a3b
 =======
     m_ExpandedIDs: 00000000182b0000
@@ -1279,6 +1442,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000e4290000
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    m_ExpandedIDs: 00000000e4290000
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1306,6 +1472,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000d42c0000d60a0000262d00001e2d00008234000000000000f2480000a43000007c2c00005c2c0000d02b0000a42e0000722e0000f62d00003a2d0000a22d0000ba2c0000162e00001e2c0000b62c0000
 =======
@@ -1316,6 +1483,10 @@ MonoBehaviour:
 =======
     m_ExpandedInstanceIDs: c6230000d42c0000d60a0000262d00001e2d00008234000000000000f2480000
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000d42c0000d60a0000262d00001e2d00008234000000000000f2480000
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1333,6 +1504,7 @@ MonoBehaviour:
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 10}
 =======
       m_ClientGUIView: {fileID: 0}
@@ -1340,6 +1512,9 @@ MonoBehaviour:
 =======
       m_ClientGUIView: {fileID: 10}
 >>>>>>> Danny Updated
+=======
+      m_ClientGUIView: {fileID: 10}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1352,6 +1527,7 @@ MonoBehaviour:
   m_DirectoriesAreaWidth: 110
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &18
 =======
 --- !u!114 &17
@@ -1359,6 +1535,9 @@ MonoBehaviour:
 =======
 --- !u!114 &19
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!114 &19
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1380,11 +1559,15 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     x: 169
     y: 750
     width: 1149
     height: 250
   m_PersistentViewDataDictionary: {fileID: 0}
+<<<<<<< HEAD
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1431,6 +1614,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &20
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!114 &20
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1453,6 +1639,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1116.8
     y: 92.8
     width: 420
@@ -1469,11 +1656,16 @@ MonoBehaviour:
     height: 910
 >>>>>>> First commit Adam Test
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     x: 1213
     y: 100
     width: 434
     height: 881
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 

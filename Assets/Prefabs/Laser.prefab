@@ -23,9 +23,12 @@ GameObject:
   - component: {fileID: 50878044812098810}
   - component: {fileID: 114821844113036082}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 70496565706947020}
 =======
 >>>>>>> First commit Adam Test
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Layer: 0
   m_Name: Laser
   m_TagString: Untagged
@@ -67,6 +70,7 @@ Rigidbody2D:
   m_CollisionDetection: 0
   m_Constraints: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!70 &70496565706947020
 CapsuleCollider2D:
   m_ObjectHideFlags: 1
@@ -84,6 +88,8 @@ CapsuleCollider2D:
   m_Direction: 0
 =======
 >>>>>>> First commit Adam Test
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!114 &114821844113036082
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -97,6 +103,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   speed: 20
 =======
   speed: 4
@@ -104,6 +111,9 @@ MonoBehaviour:
 =======
   speed: 20
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  speed: 20
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!212 &212790585686056362
 SpriteRenderer:
   m_ObjectHideFlags: 1

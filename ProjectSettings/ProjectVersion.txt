@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 m_EditorVersion: 2018.2.14f1
 =======
 m_EditorVersion: 2018.2.8f1
 >>>>>>> First commit Adam Test
+=======
+m_EditorVersion: 2018.2.8f1
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83

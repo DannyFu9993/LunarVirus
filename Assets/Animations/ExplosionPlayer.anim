@@ -20,6 +20,7 @@ AnimationClip:
   - curve:
     - time: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: {fileID: 21300000, guid: 180cc86f43155ee4496f4edceded793e, type: 3}
     - time: 0.083333336
       value: {fileID: 21300002, guid: 180cc86f43155ee4496f4edceded793e, type: 3}
@@ -42,6 +43,8 @@ AnimationClip:
     - time: 0.8333333
       value: {fileID: 21300020, guid: 180cc86f43155ee4496f4edceded793e, type: 3}
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       value: {fileID: 21300000, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
     - time: 0.083333336
       value: {fileID: 21300002, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
@@ -63,7 +66,10 @@ AnimationClip:
       value: {fileID: 21300018, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
     - time: 0.8333333
       value: {fileID: 21300020, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     attribute: m_Sprite
     path: 
     classID: 212
@@ -84,6 +90,7 @@ AnimationClip:
       isPPtrCurve: 1
     pptrCurveMapping:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - {fileID: 21300000, guid: 180cc86f43155ee4496f4edceded793e, type: 3}
     - {fileID: 21300002, guid: 180cc86f43155ee4496f4edceded793e, type: 3}
     - {fileID: 21300004, guid: 180cc86f43155ee4496f4edceded793e, type: 3}
@@ -96,6 +103,8 @@ AnimationClip:
     - {fileID: 21300018, guid: 180cc86f43155ee4496f4edceded793e, type: 3}
     - {fileID: 21300020, guid: 180cc86f43155ee4496f4edceded793e, type: 3}
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     - {fileID: 21300000, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
     - {fileID: 21300002, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
     - {fileID: 21300004, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
@@ -107,7 +116,10 @@ AnimationClip:
     - {fileID: 21300016, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
     - {fileID: 21300018, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
     - {fileID: 21300020, guid: 26deb817ac4fc8e4e89429e41ec4ed06, type: 3}
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

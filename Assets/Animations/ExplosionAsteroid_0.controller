@@ -12,10 +12,14 @@ AnimatorController:
   - serializedVersion: 5
     m_Name: Base Layer
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_StateMachine: {fileID: 1107012506001614802}
 =======
     m_StateMachine: {fileID: 1107030225720200882}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    m_StateMachine: {fileID: 1107030225720200882}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_Mask: {fileID: 0}
     m_Motions: []
     m_Behaviours: []
@@ -25,6 +29,7 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1101 &1101384752764049560
 AnimatorStateTransition:
@@ -51,6 +56,9 @@ AnimatorStateTransition:
 =======
 --- !u!1102 &1102049860878093462
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!1102 &1102049860878093462
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
@@ -60,11 +68,15 @@ AnimatorState:
   m_Speed: 1
   m_CycleOffset: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Transitions:
   - {fileID: 1101384752764049560}
 =======
   m_Transitions: []
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_Transitions: []
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -75,20 +87,28 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Motion: {fileID: 7400000, guid: 3e4b58ab6e927ed4288d583dc6a97829, type: 2}
 =======
   m_Motion: {fileID: 7400000, guid: 2db1b9e80d04c3e42bf01f48101e6a2a, type: 2}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_Motion: {fileID: 7400000, guid: 2db1b9e80d04c3e42bf01f48101e6a2a, type: 2}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1107 &1107012506001614802
 =======
 --- !u!1107 &1107030225720200882
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!1107 &1107030225720200882
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 AnimatorStateMachine:
   serializedVersion: 5
   m_ObjectHideFlags: 1
@@ -98,10 +118,14 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_State: {fileID: 1102582269896288506}
 =======
     m_State: {fileID: 1102049860878093462}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    m_State: {fileID: 1102049860878093462}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     m_Position: {x: 264, y: 12, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
@@ -111,6 +135,7 @@ AnimatorStateMachine:
   m_AnyStatePosition: {x: 50, y: 20, z: 0}
   m_EntryPosition: {x: 50, y: 120, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ExitPosition: {x: 648, y: 84, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 1102582269896288506}
@@ -119,3 +144,8 @@ AnimatorStateMachine:
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 1102049860878093462}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_ExitPosition: {x: 800, y: 120, z: 0}
+  m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
+  m_DefaultState: {fileID: 1102049860878093462}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83

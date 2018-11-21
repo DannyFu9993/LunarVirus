@@ -152,6 +152,7 @@ Prefab:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 16
 =======
       value: 8
@@ -159,6 +160,9 @@ Prefab:
 =======
       value: 16
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+      value: 16
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       objectReference: {fileID: 0}
     - target: {fileID: 4586637011055308, guid: c5b27778b1817104aa74cc9f2993e8e3, type: 2}
       propertyPath: m_LocalScale.x
@@ -179,6 +183,7 @@ GameObject:
   - component: {fileID: 78957956}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 78957959}
   - component: {fileID: 78957955}
   m_Layer: 0
@@ -188,20 +193,27 @@ GameObject:
   - component: {fileID: 78957955}
 =======
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   - component: {fileID: 78957959}
   - component: {fileID: 78957955}
   m_Layer: 0
   m_Name: Astronaut
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_TagString: Untagged
 >>>>>>> First commit Adam Test
 =======
   m_TagString: Player
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_TagString: Player
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!61 &78957955
@@ -214,6 +226,10 @@ PolygonCollider2D:
 --- !u!61 &78957955
 BoxCollider2D:
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!61 &78957955
+BoxCollider2D:
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -226,6 +242,7 @@ BoxCollider2D:
   m_UsedByComposite: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Offset: {x: 0.0011514835, y: -0.003454432}
 =======
   m_Offset: {x: 0, y: 0}
@@ -233,6 +250,9 @@ BoxCollider2D:
 =======
   m_Offset: {x: 0.0011514835, y: -0.003454432}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_Offset: {x: 0.0011514835, y: -0.003454432}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -242,6 +262,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   serializedVersion: 2
@@ -264,6 +285,11 @@ BoxCollider2D:
   m_Size: {x: 0.20381749, y: 0.4669089}
   m_EdgeRadius: 0
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  serializedVersion: 2
+  m_Size: {x: 0.20381749, y: 0.4669089}
+  m_EdgeRadius: 0
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!50 &78957956
 Rigidbody2D:
   serializedVersion: 4
@@ -279,10 +305,14 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GravityScale: 0.1
 =======
   m_GravityScale: 30
 >>>>>>> First commit Adam Test
+=======
+  m_GravityScale: 30
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -343,6 +373,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: -8.46, y: -2.547, z: 0}
 =======
   m_LocalPosition: {x: -8.84, y: -2.59, z: 0}
@@ -350,10 +381,14 @@ Transform:
 =======
   m_LocalPosition: {x: 20.85, y: -2.547, z: 0}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_LocalPosition: {x: 20.85, y: -2.547, z: 0}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_LocalScale: {x: 4.3051105, y: 4.3051105, z: 4.3051105}
   m_Children:
   - {fileID: 1258489771}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -367,6 +402,9 @@ Transform:
 =======
   m_RootOrder: 18
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_RootOrder: 18
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &78957959
 MonoBehaviour:
@@ -381,6 +419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   speed: 10
 =======
   speed: 6
@@ -388,11 +427,15 @@ MonoBehaviour:
 =======
   speed: 10
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  speed: 10
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   jumpHeight: 0.5
   laser: {fileID: 1788877909312126, guid: 1cfcd695c3e2eed42944017266958cb9, type: 2}
   jumpTime: 1
   laserSpawn: {fileID: 1258489770}
   fireRate: 0.5
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -403,12 +446,16 @@ MonoBehaviour:
 =======
 --- !u!1001 &95714135
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!1001 &95714135
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
@@ -484,6 +531,9 @@ MonoBehaviour:
 =======
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       propertyPath: m_LocalPosition.x
       value: 37.69
       objectReference: {fileID: 0}
@@ -531,17 +581,22 @@ MonoBehaviour:
   m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
   m_IsPrefabAsset: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &426634336
 >>>>>>> Danny Updated
 =======
 --- !u!1001 &301326474
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+--- !u!1001 &301326474
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
@@ -594,6 +649,9 @@ Prefab:
 =======
     - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       propertyPath: m_LocalPosition.x
       value: 34.453495
       objectReference: {fileID: 0}
@@ -636,7 +694,10 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
   m_IsPrefabAsset: 0
+<<<<<<< HEAD
 >>>>>>> Danny Updated
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -687,6 +748,7 @@ Camera:
   orthographic: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   orthographic size: 15.361528
 =======
   orthographic size: 6.6974583
@@ -694,6 +756,9 @@ Camera:
 =======
   orthographic size: 15.361528
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  orthographic size: 15.361528
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -718,6 +783,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 16.33, y: 9.53, z: -10}
 =======
   m_LocalPosition: {x: 0, y: 0, z: -10}
@@ -725,6 +791,9 @@ Transform:
 =======
   m_LocalPosition: {x: 16.33, y: 9.53, z: -10}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+  m_LocalPosition: {x: 16.33, y: 9.53, z: -10}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -741,6 +810,7 @@ Prefab:
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0.027
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
@@ -754,12 +824,17 @@ Prefab:
       value: -3.08
 >>>>>>> First commit Adam Test
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       value: 0.027
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalPosition.y
       value: -3.232
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalPosition.z
@@ -785,6 +860,7 @@ Prefab:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 13
 =======
       value: 2
@@ -792,6 +868,9 @@ Prefab:
 =======
       value: 13
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+      value: 13
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       objectReference: {fileID: 0}
     - target: {fileID: 1752832098075370, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_Name
@@ -799,6 +878,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.x
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       value: 1.56387
@@ -815,6 +895,9 @@ Prefab:
 =======
       value: 1.56387
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+      value: 1.56387
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.y
@@ -823,20 +906,27 @@ Prefab:
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1.2304801
 >>>>>>> First commit Adam Test
 =======
       value: 0.97330976
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+      value: 0.97330976
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
   m_IsPrefabAsset: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &685330667
 =======
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!1001 &685330667
 Prefab:
   m_ObjectHideFlags: 0
@@ -945,15 +1035,20 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
   m_IsPrefabAsset: 0
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
 --- !u!1001 &834520844
 >>>>>>> First commit Adam Test
+=======
+--- !u!1001 &834520844
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
@@ -1009,6 +1104,9 @@ Prefab:
 =======
     - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+    - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       propertyPath: m_LocalPosition.x
       value: -10.46
       objectReference: {fileID: 0}
@@ -1409,13 +1507,17 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1001 &1425318193
+<<<<<<< HEAD
 >>>>>>> First commit Adam Test
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
       propertyPath: m_LocalPosition.x
@@ -1466,11 +1568,48 @@ Prefab:
 <<<<<<< HEAD
       value: Wall (3)
 =======
+=======
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.236
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -3.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1752832098075370, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_Name
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       value: Ground (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.x
       value: 1.7509475
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
       objectReference: {fileID: 0}
     - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
@@ -1482,11 +1621,17 @@ Prefab:
       propertyPath: m_LocalScale.x
       value: 0.6289231
 =======
+=======
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalScale.y
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       value: 1.2509217
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.z
       value: 1.396253
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1495,6 +1640,12 @@ Prefab:
 <<<<<<< HEAD
 --- !u!1001 &834520844
 =======
+=======
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+  m_IsPrefabAsset: 0
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!1 &1669022668
 GameObject:
   m_ObjectHideFlags: 0
@@ -1719,13 +1870,17 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1001 &1966301372
+<<<<<<< HEAD
 >>>>>>> Danny Updated
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
       propertyPath: m_LocalPosition.x
       value: -10.46
@@ -2594,6 +2749,39 @@ Prefab:
 =======
       value: 7
 >>>>>>> First commit Adam Test
+=======
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.595
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -4.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_RootOrder
+      value: 15
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.y
@@ -2606,6 +2794,7 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
   m_IsPrefabAsset: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &1969940711
 Prefab:
@@ -2678,6 +2867,8 @@ Prefab:
 =======
 >>>>>>> First commit Adam Test
 =======
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
 --- !u!1001 &1969940711
 Prefab:
   m_ObjectHideFlags: 0
@@ -2740,4 +2931,7 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3005d5b4323d6548b28350dfcbc9c18, type: 2}
   m_IsPrefabAsset: 0
+<<<<<<< HEAD
 >>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83

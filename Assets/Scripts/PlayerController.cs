@@ -14,9 +14,12 @@ public class PlayerController : MonoBehaviour {
     private Rigidbody2D rb2d;
     private float myTime = 0f;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> First commit Adam Test
+=======
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
     
     // Use this for initialization
 	void Start () {
@@ -32,6 +35,7 @@ public class PlayerController : MonoBehaviour {
          if (Input.GetButton("Jump"))
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
              rb2d.AddForce(Vector2.up * jumpHeight);
 
          }
@@ -41,6 +45,11 @@ public class PlayerController : MonoBehaviour {
 
          }
 >>>>>>> First commit Adam Test
+=======
+             rb2d.AddForce(transform.up * jumpHeight);
+
+         }
+>>>>>>> 214002f2de4f1f92954139069e30ebd2e9f6fe83
         if (Input.GetButton("Fire1") && myTime > fireRate)
         {
             Instantiate(laser, laserSpawn.transform.position, laserSpawn.transform.rotation);
