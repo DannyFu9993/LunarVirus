@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 59e5aa8d0a5d4fc4dabd168f6ff9af6f
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000
+=======
+guid: c3579d73175bbc14d8fc588cabab5e4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
   userData: 
   assetBundleName: 
   assetBundleVariant: 

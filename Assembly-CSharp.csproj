@@ -11,10 +11,14 @@
     <RootNamespace>
     </RootNamespace>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectGuid>{DF2DA1F9-E44D-96CD-8F10-7FF0452F3ED5}</ProjectGuid>
 =======
     <ProjectGuid>{2267544B-3593-0987-6C98-7227F24CF0CD}</ProjectGuid>
 >>>>>>> First commit Adam Test
+=======
+    <ProjectGuid>{530EFCA0-385B-5973-E597-BE85D74B6A90}</ProjectGuid>
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -340,19 +344,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AlienShootLaser.cs" />
+    <Compile Include="Assets\Scripts\DestroybycontactD.cs" />
+    <Compile Include="Assets\Scripts\DestroyObjectD.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
+    <Compile Include="Assets\Scripts\NothingTest.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Administrator/Desktop/Lunar Virus/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Administrator/Desktop/github test/Lunar Virus DANNY/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Administrator/Desktop/Lunar Virus/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Administrator/Desktop/github test/Lunar Virus DANNY/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Administrator/Desktop/Lunar Virus/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Administrator/Desktop/github test/Lunar Virus DANNY/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Administrator/Desktop/Lunar Virus/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Administrator/Desktop/github test/Lunar Virus DANNY/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

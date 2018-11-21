@@ -10,6 +10,7 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootGameObject: {fileID: 1407454101978928}
   m_IsPrefabAsset: 1
 --- !u!1 &1407454101978928
@@ -18,12 +19,18 @@ Prefab:
   m_IsPrefabAsset: 1
 --- !u!1 &1720018888416634
 >>>>>>> First commit Adam Test
+=======
+  m_RootGameObject: {fileID: 1407454101978928}
+  m_IsPrefabAsset: 1
+--- !u!1 &1407454101978928
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4253175440607514}
   - component: {fileID: 212336603557182574}
@@ -32,6 +39,11 @@ GameObject:
   - component: {fileID: 4177667476443894}
   - component: {fileID: 212990027628325434}
 >>>>>>> First commit Adam Test
+=======
+  - component: {fileID: 4253175440607514}
+  - component: {fileID: 212336603557182574}
+  - component: {fileID: 61295361404884310}
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
   m_Layer: 0
   m_Name: Wall (1)
   m_TagString: Wall
@@ -40,14 +52,19 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &4253175440607514
 =======
 --- !u!4 &4177667476443894
 >>>>>>> First commit Adam Test
+=======
+--- !u!4 &4253175440607514
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
 Transform:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1407454101978928}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -59,11 +76,20 @@ Transform:
   m_LocalPosition: {x: -8.318666, y: -1.4088155, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
 >>>>>>> First commit Adam Test
+=======
+  m_GameObject: {fileID: 1407454101978928}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -10.46, y: -0.53, z: 0}
+  m_LocalScale: {x: 0.451, y: 6.814578, z: 1}
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
 --- !u!61 &61295361404884310
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -90,18 +116,25 @@ BoxCollider2D:
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!212 &212336603557182574
+<<<<<<< HEAD
 =======
 --- !u!212 &212990027628325434
 >>>>>>> First commit Adam Test
+=======
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
 SpriteRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1407454101978928}
 =======
   m_GameObject: {fileID: 1720018888416634}
 >>>>>>> First commit Adam Test
+=======
+  m_GameObject: {fileID: 1407454101978928}
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0

@@ -96,10 +96,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   speed: 20
 =======
   speed: 4
 >>>>>>> First commit Adam Test
+=======
+  speed: 20
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
 --- !u!212 &212790585686056362
 SpriteRenderer:
   m_ObjectHideFlags: 1

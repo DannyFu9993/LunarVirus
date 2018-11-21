@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+<<<<<<< HEAD
 public class DestroybycontactP : MonoBehaviour {
+=======
+public class DestroybycontactD : MonoBehaviour {
+>>>>>>> Added sawblades, page 1 and 2, alien transparency, animation, nonworking script
 
     void OnTriggerEnter2D(Collider2D other)
     {
