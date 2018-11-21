@@ -150,7 +150,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4586637011055308, guid: c5b27778b1817104aa74cc9f2993e8e3, type: 2}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 16
+=======
+      value: 8
+>>>>>>> First commit Adam Test
       objectReference: {fileID: 0}
     - target: {fileID: 4586637011055308, guid: c5b27778b1817104aa74cc9f2993e8e3, type: 2}
       propertyPath: m_LocalScale.x
@@ -169,17 +173,30 @@ GameObject:
   - component: {fileID: 78957958}
   - component: {fileID: 78957957}
   - component: {fileID: 78957956}
+<<<<<<< HEAD
   - component: {fileID: 78957959}
   - component: {fileID: 78957955}
   m_Layer: 0
   m_Name: Astronaut
   m_TagString: Player
+=======
+  - component: {fileID: 78957955}
+  - component: {fileID: 78957959}
+  m_Layer: 0
+  m_Name: Astronaut
+  m_TagString: Untagged
+>>>>>>> First commit Adam Test
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!61 &78957955
 BoxCollider2D:
+=======
+--- !u!60 &78957955
+PolygonCollider2D:
+>>>>>>> First commit Adam Test
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -190,7 +207,11 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
   m_Offset: {x: 0.0011514835, y: -0.003454432}
+=======
+  m_Offset: {x: 0, y: 0}
+>>>>>>> First commit Adam Test
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -200,9 +221,22 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
+<<<<<<< HEAD
   serializedVersion: 2
   m_Size: {x: 0.20381749, y: 0.4669089}
   m_EdgeRadius: 0
+=======
+  m_Points:
+    m_Paths:
+    - - {x: -0.04897784, y: 0.19022083}
+      - {x: -0.08306645, y: 0.114198714}
+      - {x: -0.1093029, y: -0.0876211}
+      - {x: -0.05643071, y: -0.09344085}
+      - {x: -0.07113242, y: -0.22204418}
+      - {x: 0.08306634, y: -0.22204417}
+      - {x: 0.095, y: 0.19}
+      - {x: 0.037044037, y: 0.21011043}
+>>>>>>> First commit Adam Test
 --- !u!50 &78957956
 Rigidbody2D:
   serializedVersion: 4
@@ -217,7 +251,11 @@ Rigidbody2D:
   m_Mass: 0.001
   m_LinearDrag: 0
   m_AngularDrag: 0
+<<<<<<< HEAD
   m_GravityScale: 0.1
+=======
+  m_GravityScale: 30
+>>>>>>> First commit Adam Test
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -276,12 +314,20 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 78957954}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -8.46, y: -2.547, z: 0}
+=======
+  m_LocalPosition: {x: -8.84, y: -2.59, z: 0}
+>>>>>>> First commit Adam Test
   m_LocalScale: {x: 4.3051105, y: 4.3051105, z: 4.3051105}
   m_Children:
   - {fileID: 1258489771}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 18
+=======
+  m_RootOrder: 5
+>>>>>>> First commit Adam Test
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &78957959
 MonoBehaviour:
@@ -294,12 +340,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 613da5cc256df374e9fb801f1a9e459e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   speed: 10
+=======
+  speed: 6
+>>>>>>> First commit Adam Test
   jumpHeight: 0.5
   laser: {fileID: 1788877909312126, guid: 1cfcd695c3e2eed42944017266958cb9, type: 2}
   jumpTime: 1
   laserSpawn: {fileID: 1258489770}
   fireRate: 0.5
+<<<<<<< HEAD
 --- !u!1001 &95714135
 Prefab:
   m_ObjectHideFlags: 0
@@ -424,6 +475,8 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
   m_IsPrefabAsset: 0
+=======
+>>>>>>> First commit Adam Test
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -472,7 +525,11 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
+<<<<<<< HEAD
   orthographic size: 15.361528
+=======
+  orthographic size: 6.6974583
+>>>>>>> First commit Adam Test
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -495,7 +552,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 16.33, y: 9.53, z: -10}
+=======
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+>>>>>>> First commit Adam Test
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -510,11 +571,19 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalPosition.x
+<<<<<<< HEAD
       value: 0.027
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalPosition.y
       value: -3.232
+=======
+      value: -0.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -3.08
+>>>>>>> First commit Adam Test
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalPosition.z
@@ -538,7 +607,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 13
+=======
+      value: 2
+>>>>>>> First commit Adam Test
       objectReference: {fileID: 0}
     - target: {fileID: 1752832098075370, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_Name
@@ -546,6 +619,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.x
+<<<<<<< HEAD
       value: 1.56387
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
@@ -555,17 +629,33 @@ Prefab:
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.z
       value: 0.97330976
+=======
+      value: 1.9770796
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.4580611
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1.2304801
+>>>>>>> First commit Adam Test
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
   m_IsPrefabAsset: 0
+<<<<<<< HEAD
 --- !u!1001 &685330667
+=======
+--- !u!1001 &834520844
+>>>>>>> First commit Adam Test
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalPosition.x
       value: 32.102
@@ -614,12 +704,162 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1001 &820525107
+=======
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -10.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.451
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177667476443894, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 6.814578
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1 &1198638587
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1198638589}
+  - component: {fileID: 1198638588}
+  m_Layer: 0
+  m_Name: indigo_bk
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1198638588
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1198638587}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 879544163
+  m_SortingLayer: 1
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 6c0915d201519274baeedf4f99be21ec, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 5.12, y: 5.12}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1198638589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1198638587}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.15, y: 0.31, z: 0}
+  m_LocalScale: {x: 4.294134, y: 2.7303715, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1258489770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1258489771}
+  m_Layer: 0
+  m_Name: laserspawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1258489771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1258489770}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 78957958}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1425318193
+>>>>>>> First commit Adam Test
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 4253175440607514, guid: fdd07f03909df1143a74fa83cd8c4fd1, type: 2}
       propertyPath: m_LocalPosition.x
       value: 29.77
@@ -1134,6 +1374,61 @@ Prefab:
   m_IsPrefabAsset: 0
 --- !u!1 &1669022668
 GameObject:
+=======
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -3.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1752832098075370, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_Name
+      value: Ground (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 2.1431427
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.531116
+      objectReference: {fileID: 0}
+    - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1.709
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1 &1669022668
+GameObject:
+>>>>>>> First commit Adam Test
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -1141,9 +1436,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1669022670}
   - component: {fileID: 1669022669}
+<<<<<<< HEAD
   - component: {fileID: 1669022672}
   - component: {fileID: 1669022671}
   - component: {fileID: 1669022673}
+=======
+>>>>>>> First commit Adam Test
   m_Layer: 0
   m_Name: alien thing
   m_TagString: Untagged
@@ -1204,6 +1502,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1669022668}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 6.88, y: -2.44, z: 0}
   m_LocalScale: {x: 3.6867297, y: 3.6867297, z: 3.6867297}
   m_Children: []
@@ -1433,6 +1732,14 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
   m_IsPrefabAsset: 0
+=======
+  m_LocalPosition: {x: 6.15, y: -3.32, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> First commit Adam Test
 --- !u!1001 &1966301372
 Prefab:
   m_ObjectHideFlags: 0
@@ -1470,7 +1777,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 15
+=======
+      value: 7
+>>>>>>> First commit Adam Test
       objectReference: {fileID: 0}
     - target: {fileID: 4875599177521936, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
       propertyPath: m_LocalScale.y
@@ -1483,6 +1794,7 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e2ce0316ca539b4e937985be5d4b68a, type: 2}
   m_IsPrefabAsset: 0
+<<<<<<< HEAD
 --- !u!1001 &1969940711
 Prefab:
   m_ObjectHideFlags: 0
@@ -1550,3 +1862,5 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3005d5b4323d6548b28350dfcbc9c18, type: 2}
   m_IsPrefabAsset: 0
+=======
+>>>>>>> First commit Adam Test

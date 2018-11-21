@@ -22,7 +22,10 @@ GameObject:
   - component: {fileID: 212790585686056362}
   - component: {fileID: 50878044812098810}
   - component: {fileID: 114821844113036082}
+<<<<<<< HEAD
   - component: {fileID: 70496565706947020}
+=======
+>>>>>>> First commit Adam Test
   m_Layer: 0
   m_Name: Laser
   m_TagString: Untagged
@@ -63,6 +66,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+<<<<<<< HEAD
 --- !u!70 &70496565706947020
 CapsuleCollider2D:
   m_ObjectHideFlags: 1
@@ -78,6 +82,8 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.32, y: 0.1}
   m_Direction: 0
+=======
+>>>>>>> First commit Adam Test
 --- !u!114 &114821844113036082
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89,7 +95,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed1772145b456a74c99f1234122fa708, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   speed: 20
+=======
+  speed: 4
+>>>>>>> First commit Adam Test
 --- !u!212 &212790585686056362
 SpriteRenderer:
   m_ObjectHideFlags: 1
